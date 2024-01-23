@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 24340,
+  "port": 8888,
+  "root_dir": "C:\\Users\\franc\\tmp",
+  "secure": false,
+  "sock": "",
+  "token": "cdd219a40c8caaa35b8844b9a74372cf4be86adfa5579a53",
+  "url": "http://localhost:8888/",
+  "version": "2.7.0"
+}

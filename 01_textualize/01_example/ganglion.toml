@@ -1,0 +1,35 @@
+[account]
+
+[app.Calculator]
+path = "./"
+command = "python calculator.py"
+
+
+[app.Easing]
+slug = "easing"
+path = "./"
+command = "textual easing"
+
+
+[app.Keys]
+slug = "keys"
+path = "./"
+command = "textual keys"
+
+
+[app.Borders]
+slug = "borders"
+path = "./"
+command = "textual borders"
+
+
+[app.Demo]
+name = "Demo"
+slug = "demo"
+path = "./"
+command = "python -m textual"
+
+[terminal.Terminal]
+name = "Terminal"
+path = "./"
+terminal = true
